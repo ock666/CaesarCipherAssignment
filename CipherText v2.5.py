@@ -25,7 +25,6 @@
 
 
 #library imports
-import unittest
 import string #for string manipulation
 import re #for substitution
 import sys #for commandlind arguments and the sys.exit module
