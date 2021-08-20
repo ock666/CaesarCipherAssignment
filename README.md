@@ -8,7 +8,7 @@ SYNOPSIS
 	'CipherText V2.5' [OPTION]... [KEY/SHIFT VALUE]... [INPUT]...
 
 DESCRIPTION
-	Encode or decode a line of text using the Caesar cipher, this is a bassic cipher
+	Encode or decode a line of text using the Caesar cipher, this is a basic cipher
 	which uses a shift value to encode and decode a message by shifting the position of characters
 	relative to their position in the alphabet.
 	You can read more about the Caesar cipher and its history here:
