@@ -30,9 +30,9 @@ BUGS & LIMITATIONS
 	If the string contains no spaces this can be ignored
 		
 EXAMPLES
-	python3 'CipherText V2.2' -e 13 'hello this is a secret message'
-	python3 'CipherText V2.2' -e 13 hellothisisasecretmessage
-	python3 'CipherText V2.2' --decrypt 13 DHWUYDHSJ
+	python3 'CipherText V2.5' -e 13 'hello this is a secret message'
+	python3 'CipherText V2.5' -e 13 hellothisisasecretmessage
+	python3 'CipherText V2.5' --decrypt 13 DHWUYDHSJ
 
 AUTHOR
 	Written by Oskar Petersen.
